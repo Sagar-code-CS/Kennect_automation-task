@@ -13,15 +13,15 @@ Playwright
 
 The test cases implemented cover:
 
-Valid login credentials
-Invalid email format
-Incorrect password
-Empty form fields validation
-Password masking
-Responsiveness of the website
-Forgot password functionality
-Logout functionality
-Form submission
+Valid login credentials,
+Invalid email format,
+Incorrect password,
+Empty form fields validation,
+Password masking,
+Responsiveness of the website,
+Forgot password functionality,
+Logout functionality,
+Form submission,
 Page load time validation.
 
 
